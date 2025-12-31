@@ -256,6 +256,4 @@ MIT License - feel free to use and modify.
 3. Make your changes
 4. Submit a pull request
 
----
 
-**Built with ❤️ for the Avivo Assignment**
