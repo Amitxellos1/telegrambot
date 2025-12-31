@@ -1,0 +1,24 @@
+# Telegram Bot
+python-telegram-bot==21.7
+
+# Embeddings & Vector Store
+sentence-transformers==3.3.1
+chromadb==0.5.23
+
+# LLM Integration
+openai==1.58.1
+
+# Image Processing
+Pillow==11.0.0
+
+# Environment & Config
+python-dotenv==1.0.1
+
+# Async support
+aiohttp==3.11.11
+
+# Optional: For Ollama local LLM
+ollama==0.4.4
+
+
+
